@@ -164,4 +164,3 @@ Back-End Admin: http://192.46.210.128:8000/admin/
 * `delete /comment/:question/:comment`
 * `delete /comment/:question/:answer/:comment`
 
-## Gopinath
